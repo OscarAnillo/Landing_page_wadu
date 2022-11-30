@@ -7,13 +7,14 @@
   text-align: center;
   min-height: 100vh;
   overflow: hidden;
+  max-width: 425px;
 }
 
 img {
   max-width: 100%;
 }
 
-/* FirstScreen
+/* FirstScreen */
 .first-screen {
   background-image: url("/public/images/wadu-bike.png");
   background-position: center;
@@ -21,7 +22,7 @@ img {
   background-repeat: no-repeat;
   height: 85vh;
   width: 100%;
-} */
+}
 
 /* Second Screen */
 /*
