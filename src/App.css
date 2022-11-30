@@ -5,4 +5,73 @@
 
 .App {
   text-align: center;
+  min-height: 100vh;
+}
+
+img {
+  max-width: 100%;
+}
+
+/* FirstScreen */
+.first-screen {
+  background-image: url("/public/images/wadu_bike.png");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+
+/* FirstScreen */
+.second-screen {
+  background-image: url("/public/images/second-screen.png");
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 100vh;
+
+}
+
+
+/* ProfileWhite */
+.profile-white {
+  background-image: url("/public/images/PERFILES-WHITE.jpg");
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 100vh;
+
+}
+
+/* ProfileGreen */
+.profile-green {
+  background-color: rgb(0, 151, 95);
+  background-image: url("/public/images/PERFILES-02.jpg");
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+
+/* ProfilePurple */
+.profile-purple {
+  background-color: rgb(99, 41, 110);
+  background-image: url("/public/images/PERFILES-01.jpg");
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+
+/* Logo-Cell*/
+.logo-cell {
+  height: 100vh;
+}
+.logo {
+  padding-top: 5em;
+  width: 60%;
+}
+.cell {
+  width: 80%;
+  margin-top: 8em;
+  transform: translateX(60px) rotate(-30deg) skew(5deg);
 }
