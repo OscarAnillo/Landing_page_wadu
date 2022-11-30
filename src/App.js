@@ -14,7 +14,6 @@ function App() {
       <SecondScreen />
       <ProfileGreen />
       <ProfilePurple />
-      {/* Gradient here*/}
       <LogoCell />
       <ProfileWhite />
     </div>
