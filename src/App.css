@@ -23,15 +23,16 @@ img {
   width: 100%;
 } */
 
-/* FirstScreen */
+/* Second Screen */
+/*
 .second-screen {
   background-image: url("/public/images/second-screen.png");
   background-position: center;
   background-size: contain;
   background-repeat: no-repeat;
   height: 100vh;
-
 }
+/*
 
 
 /* ProfileWhite */
