@@ -15,32 +15,18 @@ img {
 }
 
 /* FirstScreen */
-/*
 .first-screen {
-  background-image: url("/public/images/wadu-bike.png");
+  background-image: url("/src/images/wadu-bike.png");
   background-position: center;
   background-size: contain;
   background-repeat: no-repeat;
   height: 85vh;
   width: 100%;
 }
-*/
-
-/* Second Screen */
-/*
-.second-screen {
-  background-image: url("/public/images/second-screen.png");
-  background-position: center;
-  background-size: contain;
-  background-repeat: no-repeat;
-  height: 100vh;
-}
-/*
-
 
 /* ProfileWhite */
 .profile-white {
-  background-image: url("/public/images/PERFILES-WHITE.jpg");
+  background-image: url("/src/images/PERFILES-WHITE.jpg");
   background-position: center;
   background-size: contain;
   background-repeat: no-repeat;
@@ -51,7 +37,7 @@ img {
 /* ProfileGreen */
 .profile-green {
   background-color: rgb(0, 151, 95);
-  background-image: url("/public/images/PERFILES-02.jpg");
+  background-image: url("/src/images/PERFILES-02.jpg");
   background-position: center;
   background-size: contain;
   background-repeat: no-repeat;
@@ -61,7 +47,7 @@ img {
 /* ProfilePurple */
 .profile-purple {
   background-color: rgb(99, 41, 110);
-  background-image: url("/public/images/PERFILES-01.jpg");
+  background-image: url("/src/images/PERFILES-01.jpg");
   background-position: center;
   background-size: contain;
   background-repeat: no-repeat;
@@ -75,6 +61,7 @@ img {
 .logo {
   padding-top: 5em;
   width: 60%;
+
 }
 .cell {
   width: 80%;

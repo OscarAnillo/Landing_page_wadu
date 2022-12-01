@@ -1,5 +1,4 @@
-//import { FirstScreen } from "./components/first-screen-bike";
-//import { SecondScreen } from "./components/second-screen";
+import { FirstScreen } from "./components/first-screen-bike";
 import { ProfileWhite } from "./components/profile-white";
 import { ProfileGreen } from "./components/profile-green";
 import { ProfilePurple } from "./components/profile-purple";
@@ -10,7 +9,7 @@ import "./App.css";
 function App() {
   return (
     <div className="App">
-      {/* <FirstScreen /> */}
+      <FirstScreen />
       <ProfileWhite />
       <ProfileGreen />
       <ProfilePurple />
