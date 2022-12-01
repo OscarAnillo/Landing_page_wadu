@@ -37,7 +37,7 @@ img {
 /* ProfileGreen */
 .profile-green {
   background-color: rgb(0, 151, 95);
-  background-image: url("/src/images/PERFILES-02.jpg");
+  background-image: url("/public/PERFILES-02.jpg");
   background-position: center;
   background-size: contain;
   background-repeat: no-repeat;
@@ -47,7 +47,7 @@ img {
 /* ProfilePurple */
 .profile-purple {
   background-color: rgb(99, 41, 110);
-  background-image: url("/src/images/PERFILES-01.jpg");
+  background-image: url("/public/PERFILES-01.jpg");
   background-position: center;
   background-size: contain;
   background-repeat: no-repeat;
