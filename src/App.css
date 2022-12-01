@@ -16,7 +16,7 @@ img {
 
 /* FirstScreen */
 .first-screen {
-  background-image: url("/src/images/wadu-bike.png");
+  background-image: url("/public/wadu-bike.png");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
